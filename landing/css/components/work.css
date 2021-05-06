@@ -1,0 +1,48 @@
+.work {
+  margin: 0px auto;
+  width: 900px;
+}
+
+.work h2 {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 25px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+
+.cards p {
+  color: #aaaaaa;
+  font-weight: lighter;
+}
+
+.card1 {
+  text-align: center;
+  border: solid 1px;
+  border-color: lightgray;
+  box-shadow: 5px 10px 30px rgba(0,0,0,.1);
+  padding: 20px;
+}
+
+.card2 {
+  text-align: center;
+  border: solid 1px;
+  border-color: lightgray;
+  box-shadow: 5px 10px 30px rgba(0,0,0,.1);
+  padding: 20px;
+}
+
+.card3 {
+  text-align: center;
+  border: solid 1px;
+  border-color: lightgray;
+  box-shadow: 5px 10px 30px rgba(0,0,0,.1);
+  padding: 20px;
+}
+
+

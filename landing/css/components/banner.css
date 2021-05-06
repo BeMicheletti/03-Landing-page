@@ -1,0 +1,28 @@
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0px;
+  color: white;
+}
+
+.container1 {
+  text-align: left;
+  margin-left: 300px;
+}
+
+.container1 p {
+  color: lightgray;
+}
+
+.container1 a {
+  display: inline-block;
+  padding: 15px 30px;
+  background-color: #6cd48c;
+  color: white;
+  border-radius: 50px;
+}
+
+.container1 a:hover {
+  background-color: #80c48c;
+}
